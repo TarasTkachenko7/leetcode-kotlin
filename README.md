@@ -16,9 +16,9 @@
 ### 📊 Статистика прогресса
 
 - 🟢 **Easy:** `2`
-- 🟡 **Medium:** `1`
+- 🟡 **Medium:** `2`
 - 🔴 **Hard:** `0`
-- 📌 **Всего решено:** `3`
+- 📌 **Всего решено:** `4`
 
 ---
 
@@ -41,6 +41,7 @@
 | 0344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | `Two Pointers` | 🟢 Easy | [Solution.kt](src/two_pointers/p0344_reverse_string/Solution.kt) | [Notes](src/two_pointers/p0344_reverse_string/README.md) |
 | 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | `Two Pointers` | 🟢 Easy | [Solution.kt](src/two_pointers/p0125_valid_palindrome/Solution.kt) | [Notes](src/two_pointers/p0125_valid_palindrome/README.md) |
 | 0167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | `Two Pointers` | 🟡 Medium | [Solution.kt](src/two_pointers/p0167_two_sum_ii_input_array_is_sorted/Solution.kt) | [Notes](src/two_pointers/p0167_two_sum_ii_input_array_is_sorted/README.md) |
+| 0015 | [3Sum](https://leetcode.com/problems/3sum/) | `Two Pointers` | 🟡 Medium | [Solution.kt](src/two_pointers/p0015_3sum/Solution.kt) | [Notes](src/two_pointers/p0015_3sum/README.md) |
 ---
 
 <div align="center">
