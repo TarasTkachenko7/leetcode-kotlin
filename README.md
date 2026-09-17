@@ -15,10 +15,10 @@
 
 ### 📊 Статистика прогресса
 
-- 🟢 **Easy:** `1`
+- 🟢 **Easy:** `2`
 - 🟡 **Medium:** `0`
 - 🔴 **Hard:** `0`
-- 📌 **Всего решено:** `1`
+- 📌 **Всего решено:** `2`
 
 ---
 
@@ -39,7 +39,7 @@
 | № | Задача | Категория | Сложность | Код решения | Разбор идеи |
 |:---:|:---|:---|:---:|:---:|:---:|
 | 0344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | `Two Pointers` | 🟢 Easy | [Solution.kt](src/two_pointers/p0344_reverse_string/Solution.kt) | [Notes](src/two_pointers/p0344_reverse_string/README.md) |
-
+| 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | `Two Pointers` | 🟢 Easy | [Solution.kt](src/two_pointers/p0125_valid_palindrome/Solution.kt) | [Notes](src/two_pointers/p0125_valid_palindrome/README.md) |
 ---
 
 <div align="center">
