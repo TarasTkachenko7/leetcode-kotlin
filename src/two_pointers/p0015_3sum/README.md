@@ -1,7 +1,7 @@
 # 0015. 3Sum
 
 - **Сложность:** Medium
-- **Паттерн:** Two Pointers / Sorting
+- **Паттерн:** Two Pointers
 - **Ссылка:** [LeetCode №15](https://leetcode.com/problems/3sum/)
 
 ## Идея

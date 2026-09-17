@@ -1,7 +1,7 @@
 # 0026. Remove Duplicates from Sorted Array
 
 - **Сложность:** Easy
-- **Паттерн:** Two Pointers (Fast & Slow)
+- **Паттерн:** Two Pointers
 - **Ссылка:** [LeetCode №26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 
 ## Идея

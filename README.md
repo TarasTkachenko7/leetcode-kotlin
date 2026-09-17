@@ -15,10 +15,10 @@
 
 ### 📊 Статистика прогресса
 
-- 🟢 **Easy:** `6`
+- 🟢 **Easy:** `8`
 - 🟡 **Medium:** `3`
 - 🔴 **Hard:** `0`
-- 📌 **Всего решено:** `9`
+- 📌 **Всего решено:** `11`
 
 ---
 
@@ -47,6 +47,8 @@
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | `Two Pointers` | 🟢 Easy | [Solution.kt](src/two_pointers/p0026_remove_duplicates_from_sorted_array/Solution.kt) | [Notes](src/two_pointers/p0026_remove_duplicates_from_sorted_array/README.md) |
 | 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | `Two Pointers` | 🟢 Easy | [Solution.kt](src/two_pointers/p0283_move_zeroes/Solution.kt) | [Notes](src/two_pointers/p0283_move_zeroes/README.md) |
 | 0392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | `Two Pointers` | 🟢 Easy | [Solution.kt](src/two_pointers/p0392_is_subsequence/Solution.kt) | [Notes](src/two_pointers/p0392_is_subsequence/README.md) |
+| 0844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | `Two Pointers` | 🟢 Easy | [Solution.kt](src/two_pointers/p0844_backspace_string_compare/Solution.kt) | [Notes](src/two_pointers/p0844_backspace_string_compare/README.md) |
+| 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | `Two Pointers` | 🟢 Easy | [Solution.kt](src/two_pointers/p0088_merge_sorted_array/Solution.kt) | [Notes](src/two_pointers/p0088_merge_sorted_array/README.md) |
 ---
 
 <div align="center">

@@ -1,7 +1,7 @@
 # 0011. Container With Most Water
 
 - **Сложность:** Medium
-- **Паттерн:** Two Pointers / Greedy
+- **Паттерн:** Two Pointers
 - **Ссылка:** [LeetCode №11](https://leetcode.com/problems/container-with-most-water/)
 
 ## Идея

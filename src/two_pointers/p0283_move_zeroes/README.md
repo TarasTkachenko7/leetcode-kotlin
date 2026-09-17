@@ -1,7 +1,7 @@
 # 0283. Move Zeroes
 
 - **Сложность:** Easy
-- **Паттерн:** Two Pointers (Fast & Slow)
+- **Паттерн:** Two Pointers
 - **Ссылка:** [LeetCode №283](https://leetcode.com/problems/move-zeroes/)
 
 ## Идея
