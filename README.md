@@ -15,10 +15,10 @@
 
 ### 📊 Статистика прогресса
 
-- 🟢 **Easy:** `2`
+- 🟢 **Easy:** `3`
 - 🟡 **Medium:** `2`
 - 🔴 **Hard:** `0`
-- 📌 **Всего решено:** `4`
+- 📌 **Всего решено:** `5`
 
 ---
 
@@ -42,6 +42,7 @@
 | 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | `Two Pointers` | 🟢 Easy | [Solution.kt](src/two_pointers/p0125_valid_palindrome/Solution.kt) | [Notes](src/two_pointers/p0125_valid_palindrome/README.md) |
 | 0167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | `Two Pointers` | 🟡 Medium | [Solution.kt](src/two_pointers/p0167_two_sum_ii_input_array_is_sorted/Solution.kt) | [Notes](src/two_pointers/p0167_two_sum_ii_input_array_is_sorted/README.md) |
 | 0015 | [3Sum](https://leetcode.com/problems/3sum/) | `Two Pointers` | 🟡 Medium | [Solution.kt](src/two_pointers/p0015_3sum/Solution.kt) | [Notes](src/two_pointers/p0015_3sum/README.md) |
+| 0977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | `Two Pointers` | 🟢 Easy | [Solution.kt](src/two_pointers/p0977_squares_of_a_sorted_array/Solution.kt) | [Notes](src/two_pointers/p0977_squares_of_a_sorted_array/README.md) |
 ---
 
 <div align="center">
