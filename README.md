@@ -15,10 +15,10 @@
 
 ### 📊 Статистика прогресса
 
-- 🟢 **Easy:** `4`
+- 🟢 **Easy:** `5`
 - 🟡 **Medium:** `3`
 - 🔴 **Hard:** `0`
-- 📌 **Всего решено:** `7`
+- 📌 **Всего решено:** `8`
 
 ---
 
@@ -45,6 +45,7 @@
 | 0977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | `Two Pointers` | 🟢 Easy | [Solution.kt](src/two_pointers/p0977_squares_of_a_sorted_array/Solution.kt) | [Notes](src/two_pointers/p0977_squares_of_a_sorted_array/README.md) |
 | 0011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | `Two Pointers` | 🟡 Medium | [Solution.kt](src/two_pointers/p0011_container_with_most_water/Solution.kt) | [Notes](src/two_pointers/p0011_container_with_most_water/README.md) |
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | `Two Pointers` | 🟢 Easy | [Solution.kt](src/two_pointers/p0026_remove_duplicates_from_sorted_array/Solution.kt) | [Notes](src/two_pointers/p0026_remove_duplicates_from_sorted_array/README.md) |
+| 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | `Two Pointers` | 🟢 Easy | [Solution.kt](src/two_pointers/p0283_move_zeroes/Solution.kt) | [Notes](src/two_pointers/p0283_move_zeroes/README.md) |
 ---
 
 <div align="center">
