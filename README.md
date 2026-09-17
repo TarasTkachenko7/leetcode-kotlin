@@ -15,10 +15,10 @@
 
 ### 📊 Статистика прогресса
 
-- 🟢 **Easy:** `5`
+- 🟢 **Easy:** `6`
 - 🟡 **Medium:** `3`
 - 🔴 **Hard:** `0`
-- 📌 **Всего решено:** `8`
+- 📌 **Всего решено:** `9`
 
 ---
 
@@ -46,6 +46,7 @@
 | 0011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | `Two Pointers` | 🟡 Medium | [Solution.kt](src/two_pointers/p0011_container_with_most_water/Solution.kt) | [Notes](src/two_pointers/p0011_container_with_most_water/README.md) |
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | `Two Pointers` | 🟢 Easy | [Solution.kt](src/two_pointers/p0026_remove_duplicates_from_sorted_array/Solution.kt) | [Notes](src/two_pointers/p0026_remove_duplicates_from_sorted_array/README.md) |
 | 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | `Two Pointers` | 🟢 Easy | [Solution.kt](src/two_pointers/p0283_move_zeroes/Solution.kt) | [Notes](src/two_pointers/p0283_move_zeroes/README.md) |
+| 0392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | `Two Pointers` | 🟢 Easy | [Solution.kt](src/two_pointers/p0392_is_subsequence/Solution.kt) | [Notes](src/two_pointers/p0392_is_subsequence/README.md) |
 ---
 
 <div align="center">
