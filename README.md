@@ -15,10 +15,10 @@
 
 ### 📊 Статистика прогресса
 
-- 🟢 **Easy:** `3`
+- 🟢 **Easy:** `4`
 - 🟡 **Medium:** `3`
 - 🔴 **Hard:** `0`
-- 📌 **Всего решено:** `6`
+- 📌 **Всего решено:** `7`
 
 ---
 
@@ -44,6 +44,7 @@
 | 0015 | [3Sum](https://leetcode.com/problems/3sum/) | `Two Pointers` | 🟡 Medium | [Solution.kt](src/two_pointers/p0015_3sum/Solution.kt) | [Notes](src/two_pointers/p0015_3sum/README.md) |
 | 0977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | `Two Pointers` | 🟢 Easy | [Solution.kt](src/two_pointers/p0977_squares_of_a_sorted_array/Solution.kt) | [Notes](src/two_pointers/p0977_squares_of_a_sorted_array/README.md) |
 | 0011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | `Two Pointers` | 🟡 Medium | [Solution.kt](src/two_pointers/p0011_container_with_most_water/Solution.kt) | [Notes](src/two_pointers/p0011_container_with_most_water/README.md) |
+| 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | `Two Pointers` | 🟢 Easy | [Solution.kt](src/two_pointers/p0026_remove_duplicates_from_sorted_array/Solution.kt) | [Notes](src/two_pointers/p0026_remove_duplicates_from_sorted_array/README.md) |
 ---
 
 <div align="center">
