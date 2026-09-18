@@ -16,9 +16,9 @@
 ### 📊 Статистика прогресса
 
 - 🟢 **Easy:** `8`
-- 🟡 **Medium:** `3`
+- 🟡 **Medium:** `4`
 - 🔴 **Hard:** `0`
-- 📌 **Всего решено:** `11`
+- 📌 **Всего решено:** `12`
 
 ---
 
@@ -49,6 +49,7 @@
 | 0392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | `Two Pointers` | 🟢 Easy | [Solution.kt](src/two_pointers/p0392_is_subsequence/Solution.kt) | [Notes](src/two_pointers/p0392_is_subsequence/README.md) |
 | 0844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | `Two Pointers` | 🟢 Easy | [Solution.kt](src/two_pointers/p0844_backspace_string_compare/Solution.kt) | [Notes](src/two_pointers/p0844_backspace_string_compare/README.md) |
 | 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | `Two Pointers` | 🟢 Easy | [Solution.kt](src/two_pointers/p0088_merge_sorted_array/Solution.kt) | [Notes](src/two_pointers/p0088_merge_sorted_array/README.md) |
+| 0075 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | `Two Pointers` | 🟡 Medium | [Solution.kt](src/two_pointers/p0075_sort_colors/Solution.kt) | [Notes](src/two_pointers/p0075_sort_colors/README.md) |
 ---
 
 <div align="center">
