@@ -55,9 +55,9 @@
 | 0287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | `Two Pointers` | 🟡 Medium | [Solution.kt](src/two_pointers/p0287_find_the_duplicate_number/Solution.kt) | [Notes](src/two_pointers/p0287_find_the_duplicate_number/README.md) |
 
 #### Linked Lists
-| № | Задача | Категория | Сложность | Код решения | Разбор идеи |
-|:---:|:---|:---|:---:|:---:|:---:|
-| 0707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | `Linked List` | 🟡 Medium | [Solution.kt](src/linked_list/p0707_design_linked_list/Solution.kt) | [Notes](src/linked_list/p0707_design_linked_list/README.md) |
+| № | Задача | Категория | Сложность |                             Код решения                              |                         Разбор идеи                          |
+|:---:|:---|:---|:---:|:--------------------------------------------------------------------:|:------------------------------------------------------------:|
+| 0707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | `Linked List` | 🟡 Medium | [Solution.kt](src/linked_lists/p0707_design_linked_list/Solution.kt) | [Notes](src/linked_lists/p0707_design_linked_list/README.md) |
 
 ---
 

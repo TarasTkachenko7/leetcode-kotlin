@@ -1,4 +1,4 @@
-package linked_list.p0707_design_linked_list
+package linked_lists.p0707_design_linked_list
 
 class MyLinkedList() {
 
