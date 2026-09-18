@@ -15,10 +15,10 @@
 
 ### 📊 Статистика прогресса
 
-- 🟢 **Easy:** `8`
+- 🟢 **Easy:** `9`
 - 🟡 **Medium:** `4`
 - 🔴 **Hard:** `0`
-- 📌 **Всего решено:** `12`
+- 📌 **Всего решено:** `13`
 
 ---
 
@@ -50,6 +50,7 @@
 | 0844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | `Two Pointers` | 🟢 Easy | [Solution.kt](src/two_pointers/p0844_backspace_string_compare/Solution.kt) | [Notes](src/two_pointers/p0844_backspace_string_compare/README.md) |
 | 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | `Two Pointers` | 🟢 Easy | [Solution.kt](src/two_pointers/p0088_merge_sorted_array/Solution.kt) | [Notes](src/two_pointers/p0088_merge_sorted_array/README.md) |
 | 0075 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | `Two Pointers` | 🟡 Medium | [Solution.kt](src/two_pointers/p0075_sort_colors/Solution.kt) | [Notes](src/two_pointers/p0075_sort_colors/README.md) |
+| 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | `Two Pointers` | 🟢 Easy | [Solution.kt](src/two_pointers/p0141_linked_list_cycle/Solution.kt) | [Notes](src/two_pointers/p0141_linked_list_cycle/README.md) |
 ---
 
 <div align="center">
