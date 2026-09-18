@@ -15,10 +15,10 @@
 
 ### 📊 Статистика прогресса
 
-- 🟢 **Easy:** `11`
+- 🟢 **Easy:** `12`
 - 🟡 **Medium:** `7`
 - 🔴 **Hard:** `0`
-- 📌 **Всего решено:** `18`
+- 📌 **Всего решено:** `19`
 
 ---
 
@@ -61,6 +61,7 @@
 | 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | `Linked List` | 🟢 Easy |        [Solution.kt](src/linked_lists/p0876_middle_of_the_linked_list/Solution.kt)        |        [Notes](src/linked_lists/p0876_middle_of_the_linked_list/README.md)        |
 | 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | `Linked List` | 🟡 Medium | [Solution.kt](src/linked_lists/p2095_delete_the_middle_node_of_a_linked_list/Solution.kt) | [Notes](src/linked_lists/p2095_delete_the_middle_node_of_a_linked_list/README.md) |
 | 0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | `Linked Lists` | 🟢 Easy | [Solution.kt](src/linked_lists/p0206_reverse_linked_list/Solution.kt) | [Notes](src/linked_lists/p0206_reverse_linked_list/README.md) |
+| 0234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | `Linked Lists` | 🟢 Easy | [Solution.kt](src/linked_lists/p0234_palindrome_linked_list/Solution.kt) | [Notes](src/linked_lists/p0234_palindrome_linked_list/README.md) |
 
 ---
 
