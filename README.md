@@ -16,9 +16,9 @@
 ### 📊 Статистика прогресса
 
 - 🟢 **Easy:** `9`
-- 🟡 **Medium:** `5`
+- 🟡 **Medium:** `6`
 - 🔴 **Hard:** `0`
-- 📌 **Всего решено:** `14`
+- 📌 **Всего решено:** `15`
 
 ---
 
@@ -54,9 +54,10 @@
 | 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | `Two Pointers` | 🟢 Easy | [Solution.kt](src/two_pointers/p0141_linked_list_cycle/Solution.kt) | [Notes](src/two_pointers/p0141_linked_list_cycle/README.md) |
 | 0287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | `Two Pointers` | 🟡 Medium | [Solution.kt](src/two_pointers/p0287_find_the_duplicate_number/Solution.kt) | [Notes](src/two_pointers/p0287_find_the_duplicate_number/README.md) |
 
-#### ...
+#### Linked Lists
 | № | Задача | Категория | Сложность | Код решения | Разбор идеи |
 |:---:|:---|:---|:---:|:---:|:---:|
+| 0707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | `Linked List` | 🟡 Medium | [Solution.kt](src/linked_list/p0707_design_linked_list/Solution.kt) | [Notes](src/linked_list/p0707_design_linked_list/README.md) |
 
 ---
 
