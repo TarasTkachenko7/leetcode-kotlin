@@ -16,9 +16,9 @@
 ### 📊 Статистика прогресса
 
 - 🟢 **Easy:** `10`
-- 🟡 **Medium:** `6`
+- 🟡 **Medium:** `7`
 - 🔴 **Hard:** `0`
-- 📌 **Всего решено:** `16`
+- 📌 **Всего решено:** `17`
 
 ---
 
@@ -59,6 +59,7 @@
 |:---:|:---|:---|:---:|:--------------------------------------------------------------------:|:------------------------------------------------------------:|
 | 0707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | `Linked List` | 🟡 Medium | [Solution.kt](src/linked_lists/p0707_design_linked_list/Solution.kt) | [Notes](src/linked_lists/p0707_design_linked_list/README.md) |
 | 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | `Linked List` | 🟢 Easy | [Solution.kt](src/linked_list/p0876_middle_of_the_linked_list/Solution.kt) | [Notes](src/linked_list/p0876_middle_of_the_linked_list/README.md) |
+| 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | `Linked List` | 🟡 Medium | [Solution.kt](src/linked_list/p2095_delete_the_middle_node_of_a_linked_list/Solution.kt) | [Notes](src/linked_list/p2095_delete_the_middle_node_of_a_linked_list/README.md) |
 
 ---
 
