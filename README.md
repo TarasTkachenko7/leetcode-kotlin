@@ -15,10 +15,10 @@
 
 ### 📊 Статистика прогресса
 
-- 🟢 **Easy:** `9`
+- 🟢 **Easy:** `10`
 - 🟡 **Medium:** `6`
 - 🔴 **Hard:** `0`
-- 📌 **Всего решено:** `15`
+- 📌 **Всего решено:** `16`
 
 ---
 
@@ -58,6 +58,7 @@
 | № | Задача | Категория | Сложность |                             Код решения                              |                         Разбор идеи                          |
 |:---:|:---|:---|:---:|:--------------------------------------------------------------------:|:------------------------------------------------------------:|
 | 0707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | `Linked List` | 🟡 Medium | [Solution.kt](src/linked_lists/p0707_design_linked_list/Solution.kt) | [Notes](src/linked_lists/p0707_design_linked_list/README.md) |
+| 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | `Linked List` | 🟢 Easy | [Solution.kt](src/linked_list/p0876_middle_of_the_linked_list/Solution.kt) | [Notes](src/linked_list/p0876_middle_of_the_linked_list/README.md) |
 
 ---
 
