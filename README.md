@@ -16,9 +16,9 @@
 ### 📊 Статистика прогресса
 
 - 🟢 **Easy:** `9`
-- 🟡 **Medium:** `4`
+- 🟡 **Medium:** `5`
 - 🔴 **Hard:** `0`
-- 📌 **Всего решено:** `13`
+- 📌 **Всего решено:** `14`
 
 ---
 
@@ -51,6 +51,7 @@
 | 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | `Two Pointers` | 🟢 Easy | [Solution.kt](src/two_pointers/p0088_merge_sorted_array/Solution.kt) | [Notes](src/two_pointers/p0088_merge_sorted_array/README.md) |
 | 0075 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | `Two Pointers` | 🟡 Medium | [Solution.kt](src/two_pointers/p0075_sort_colors/Solution.kt) | [Notes](src/two_pointers/p0075_sort_colors/README.md) |
 | 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | `Two Pointers` | 🟢 Easy | [Solution.kt](src/two_pointers/p0141_linked_list_cycle/Solution.kt) | [Notes](src/two_pointers/p0141_linked_list_cycle/README.md) |
+| 0287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | `Two Pointers` | 🟡 Medium | [Solution.kt](src/two_pointers/p0287_find_the_duplicate_number/Solution.kt) | [Notes](src/two_pointers/p0287_find_the_duplicate_number/README.md) |
 ---
 
 <div align="center">
