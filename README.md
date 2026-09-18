@@ -36,6 +36,7 @@
 
 ### 📝 Список решённых задач
 
+#### Two Pointers
 | № | Задача | Категория | Сложность | Код решения | Разбор идеи |
 |:---:|:---|:---|:---:|:---:|:---:|
 | 0344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | `Two Pointers` | 🟢 Easy | [Solution.kt](src/two_pointers/p0344_reverse_string/Solution.kt) | [Notes](src/two_pointers/p0344_reverse_string/README.md) |
@@ -52,6 +53,11 @@
 | 0075 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | `Two Pointers` | 🟡 Medium | [Solution.kt](src/two_pointers/p0075_sort_colors/Solution.kt) | [Notes](src/two_pointers/p0075_sort_colors/README.md) |
 | 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | `Two Pointers` | 🟢 Easy | [Solution.kt](src/two_pointers/p0141_linked_list_cycle/Solution.kt) | [Notes](src/two_pointers/p0141_linked_list_cycle/README.md) |
 | 0287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | `Two Pointers` | 🟡 Medium | [Solution.kt](src/two_pointers/p0287_find_the_duplicate_number/Solution.kt) | [Notes](src/two_pointers/p0287_find_the_duplicate_number/README.md) |
+
+#### ...
+| № | Задача | Категория | Сложность | Код решения | Разбор идеи |
+|:---:|:---|:---|:---:|:---:|:---:|
+
 ---
 
 <div align="center">
