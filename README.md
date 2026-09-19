@@ -15,10 +15,10 @@
 
 ### 📊 Статистика прогресса
 
-- 🟢 **Easy:** `14`
+- 🟢 **Easy:** `15`
 - 🟡 **Medium:** `10`
 - 🔴 **Hard:** `0`
-- 📌 **Всего решено:** `24`
+- 📌 **Всего решено:** `25`
 
 ---
 
@@ -67,6 +67,7 @@
 | 0024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | `Linked Lists` | 🟡 Medium | [Solution.kt](src/linked_lists/p0024_swap_nodes_in_pairs/Solution.kt) | [Notes](src/linked_lists/p0024_swap_nodes_in_pairs/README.md) |
 | 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | `Linked Lists` | 🟢 Easy | [Solution.kt](src/linked_lists/p0021_merge_two_sorted_lists/Solution.kt) | [Notes](src/linked_lists/p0021_merge_two_sorted_lists/README.md) |
 | 0142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | `Linked Lists` | 🟡 Medium | [Solution.kt](src/linked_lists/p0142_linked_list_cycle_ii/Solution.kt) | [Notes](src/linked_lists/p0142_linked_list_cycle_ii/README.md) |
+| 0160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | `Linked Lists` | 🟢 Easy | [Solution.kt](src/linked_lists/p0160_intersection_of_two_linked_lists/Solution.kt) | [Notes](src/linked_lists/p0160_intersection_of_two_linked_lists/README.md) |
 
 ---
 
