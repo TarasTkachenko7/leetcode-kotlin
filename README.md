@@ -16,9 +16,9 @@
 ### 📊 Статистика прогресса
 
 - 🟢 **Easy:** `13`
-- 🟡 **Medium:** `8`
+- 🟡 **Medium:** `9`
 - 🔴 **Hard:** `0`
-- 📌 **Всего решено:** `21`
+- 📌 **Всего решено:** `22`
 
 ---
 
@@ -64,6 +64,7 @@
 | 0234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | `Linked Lists` | 🟢 Easy | [Solution.kt](src/linked_lists/p0234_palindrome_linked_list/Solution.kt) | [Notes](src/linked_lists/p0234_palindrome_linked_list/README.md) |
 | 0083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | `Linked Lists` | 🟢 Easy | [Solution.kt](src/linked_lists/p0083_remove_duplicates_from_sorted_list/Solution.kt) | [Notes](src/linked_lists/p0083_remove_duplicates_from_sorted_list/README.md) |
 | 0019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | `Linked Lists` | 🟡 Medium | [Solution.kt](src/linked_lists/p0019_remove_nth_node_from_end_of_list/Solution.kt) | [Notes](src/linked_lists/p0019_remove_nth_node_from_end_of_list/README.md) |
+| 0024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | `Linked Lists` | 🟡 Medium | [Solution.kt](src/linked_lists/p0024_swap_nodes_in_pairs/Solution.kt) | [Notes](src/linked_lists/p0024_swap_nodes_in_pairs/README.md) |
 
 ---
 
