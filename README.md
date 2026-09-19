@@ -16,9 +16,9 @@
 ### 📊 Статистика прогресса
 
 - 🟢 **Easy:** `14`
-- 🟡 **Medium:** `9`
+- 🟡 **Medium:** `10`
 - 🔴 **Hard:** `0`
-- 📌 **Всего решено:** `23`
+- 📌 **Всего решено:** `24`
 
 ---
 
@@ -66,6 +66,7 @@
 | 0019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | `Linked Lists` | 🟡 Medium | [Solution.kt](src/linked_lists/p0019_remove_nth_node_from_end_of_list/Solution.kt) | [Notes](src/linked_lists/p0019_remove_nth_node_from_end_of_list/README.md) |
 | 0024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | `Linked Lists` | 🟡 Medium | [Solution.kt](src/linked_lists/p0024_swap_nodes_in_pairs/Solution.kt) | [Notes](src/linked_lists/p0024_swap_nodes_in_pairs/README.md) |
 | 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | `Linked Lists` | 🟢 Easy | [Solution.kt](src/linked_lists/p0021_merge_two_sorted_lists/Solution.kt) | [Notes](src/linked_lists/p0021_merge_two_sorted_lists/README.md) |
+| 0142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | `Linked Lists` | 🟡 Medium | [Solution.kt](src/linked_lists/p0142_linked_list_cycle_ii/Solution.kt) | [Notes](src/linked_lists/p0142_linked_list_cycle_ii/README.md) |
 
 ---
 
