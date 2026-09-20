@@ -16,9 +16,9 @@
 ### 📊 Статистика прогресса
 
 - 🟢 **Easy:** `15`
-- 🟡 **Medium:** `12`
+- 🟡 **Medium:** `13`
 - 🔴 **Hard:** `1`
-- 📌 **Всего решено:** `28`
+- 📌 **Всего решено:** `29`
 
 ---
 
@@ -71,6 +71,7 @@
 | 0023 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | `Linked Lists` | 🔴 Hard | [Solution.kt](src/linked_lists/p0023_merge_k_sorted_lists/Solution.kt) | [Notes](src/linked_lists/p0023_merge_k_sorted_lists/README.md) |
 | 0082 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | `Linked Lists` | 🟡 Medium | [Solution.kt](src/linked_lists/p0082_remove_duplicates_from_sorted_list_ii/Solution.kt) | [Notes](src/linked_lists/p0082_remove_duplicates_from_sorted_list_ii/README.md) |
 | 0092 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | `Linked Lists` | 🟡 Medium | [Solution.kt](src/linked_lists/p0092_reverse_linked_list_ii/Solution.kt) | [Notes](src/linked_lists/p0092_reverse_linked_list_ii/README.md) |
+| 0143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | `Linked Lists` | 🟡 Medium | [Solution.kt](src/linked_lists/p0143_reorder_list/Solution.kt) | [Notes](src/linked_lists/p0143_reorder_list/README.md) |
 
 ---
 
