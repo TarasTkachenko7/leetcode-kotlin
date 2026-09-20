@@ -17,8 +17,8 @@
 
 - 🟢 **Easy:** `15`
 - 🟡 **Medium:** `10`
-- 🔴 **Hard:** `0`
-- 📌 **Всего решено:** `25`
+- 🔴 **Hard:** `1`
+- 📌 **Всего решено:** `26`
 
 ---
 
@@ -68,6 +68,7 @@
 | 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | `Linked Lists` | 🟢 Easy | [Solution.kt](src/linked_lists/p0021_merge_two_sorted_lists/Solution.kt) | [Notes](src/linked_lists/p0021_merge_two_sorted_lists/README.md) |
 | 0142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | `Linked Lists` | 🟡 Medium | [Solution.kt](src/linked_lists/p0142_linked_list_cycle_ii/Solution.kt) | [Notes](src/linked_lists/p0142_linked_list_cycle_ii/README.md) |
 | 0160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | `Linked Lists` | 🟢 Easy | [Solution.kt](src/linked_lists/p0160_intersection_of_two_linked_lists/Solution.kt) | [Notes](src/linked_lists/p0160_intersection_of_two_linked_lists/README.md) |
+| 0023 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | `Linked Lists` | 🔴 Hard | [Solution.kt](src/linked_lists/p0023_merge_k_sorted_lists/Solution.kt) | [Notes](src/linked_lists/p0023_merge_k_sorted_lists/README.md) |
 
 ---
 
