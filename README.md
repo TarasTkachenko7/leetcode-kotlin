@@ -16,9 +16,9 @@
 ### 📊 Статистика прогресса
 
 - 🟢 **Easy:** `18`
-- 🟡 **Medium:** `14`
+- 🟡 **Medium:** `15`
 - 🔴 **Hard:** `1`
-- 📌 **Всего решено:** `33`
+- 📌 **Всего решено:** `34`
 
 ---
 
@@ -80,6 +80,7 @@
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | `HashMap` | 🟢 Easy | [Solution.kt](src/hashmap/p0001_two_sum/Solution.kt) | [Notes](src/hashmap/p0001_two_sum/README.md) |
 | 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | `HashMap` | 🟢 Easy | [Solution.kt](src/hashmap/p0242_valid_anagram/Solution.kt) | [Notes](src/hashmap/p0242_valid_anagram/README.md) |
 | 0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | `HashMap` | 🟡 Medium | [Solution.kt](src/hashmap/p0049_group_anagrams/Solution.kt) | [Notes](src/hashmap/p0049_group_anagrams/README.md) |
+| 0347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | `HashMap` | 🟡 Medium | [Solution.kt](src/hashmap/p0347_top_k_frequent_elements/Solution.kt) | [Notes](src/hashmap/p0347_top_k_frequent_elements/README.md) |
 
 ---
 
