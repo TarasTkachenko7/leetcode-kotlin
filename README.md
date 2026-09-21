@@ -16,9 +16,9 @@
 ### 📊 Статистика прогресса
 
 - 🟢 **Easy:** `18`
-- 🟡 **Medium:** `13`
+- 🟡 **Medium:** `14`
 - 🔴 **Hard:** `1`
-- 📌 **Всего решено:** `32`
+- 📌 **Всего решено:** `33`
 
 ---
 
@@ -79,6 +79,7 @@
 | 0706 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) | `HashMap` | 🟢 Easy | [Solution.kt](src/hashmap/p0706_design_hashmap/Solution.kt) | [Notes](src/hashmap/p0706_design_hashmap/README.md) |
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | `HashMap` | 🟢 Easy | [Solution.kt](src/hashmap/p0001_two_sum/Solution.kt) | [Notes](src/hashmap/p0001_two_sum/README.md) |
 | 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | `HashMap` | 🟢 Easy | [Solution.kt](src/hashmap/p0242_valid_anagram/Solution.kt) | [Notes](src/hashmap/p0242_valid_anagram/README.md) |
+| 0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | `HashMap` | 🟡 Medium | [Solution.kt](src/hashmap/p0049_group_anagrams/Solution.kt) | [Notes](src/hashmap/p0049_group_anagrams/README.md) |
 
 ---
 
