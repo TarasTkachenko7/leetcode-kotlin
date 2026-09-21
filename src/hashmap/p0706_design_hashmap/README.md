@@ -1,7 +1,7 @@
 # 0706. Design HashMap
 
 - **Сложность:** Easy
-- **Паттерн:** Linked List
+- **Паттерн:** HashMap
 - **Ссылка:** [LeetCode №706](https://leetcode.com/problems/design-hashmap/)
 
 ## Идея

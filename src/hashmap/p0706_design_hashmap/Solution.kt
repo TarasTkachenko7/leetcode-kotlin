@@ -1,4 +1,4 @@
-package linked_lists.p0706_design_hashmap
+package hashmap.p0706_design_hashmap
 
 class MyHashMap() {
 

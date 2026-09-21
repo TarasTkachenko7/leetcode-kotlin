@@ -15,10 +15,10 @@
 
 ### 📊 Статистика прогресса
 
-- 🟢 **Easy:** `16`
+- 🟢 **Easy:** `17`
 - 🟡 **Medium:** `13`
 - 🔴 **Hard:** `1`
-- 📌 **Всего решено:** `30`
+- 📌 **Всего решено:** `31`
 
 ---
 
@@ -76,7 +76,8 @@
 #### HashMap
 | № | Задача | Категория | Сложность |                         Код решения                         |                     Разбор идеи                     |
 |:---:|:---|:---|:---:|:-----------------------------------------------------------:|:---------------------------------------------------:|
-| 0706 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) | `Linked Lists` | 🟢 Easy | [Solution.kt](src/hashmap/p0706_design_hashmap/Solution.kt) | [Notes](src/hashmap/p0706_design_hashmap/README.md) |
+| 0706 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) | `HashMap` | 🟢 Easy | [Solution.kt](src/hashmap/p0706_design_hashmap/Solution.kt) | [Notes](src/hashmap/p0706_design_hashmap/README.md) |
+| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | `HashMap` | 🟢 Easy | [Solution.kt](src/hashmap/p0001_two_sum/Solution.kt) | [Notes](src/hashmap/p0001_two_sum/README.md) |
 
 ---
 
