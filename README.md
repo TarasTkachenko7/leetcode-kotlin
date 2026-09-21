@@ -74,9 +74,9 @@
 | 0143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | `Linked Lists` | 🟡 Medium | [Solution.kt](src/linked_lists/p0143_reorder_list/Solution.kt) | [Notes](src/linked_lists/p0143_reorder_list/README.md) |
 
 #### HashMap
-| № | Задача | Категория | Сложность |                                        Код решения                                        |                                    Разбор идеи                                    |
-|:---:|:---|:---|:---:|:-----------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------:|
-| 0706 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) | `Linked Lists` | 🟢 Easy | [Solution.kt](src/linked_lists/p0706_design_hashmap/Solution.kt) | [Notes](src/linked_lists/p0706_design_hashmap/README.md) |
+| № | Задача | Категория | Сложность |                         Код решения                         |                     Разбор идеи                     |
+|:---:|:---|:---|:---:|:-----------------------------------------------------------:|:---------------------------------------------------:|
+| 0706 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) | `Linked Lists` | 🟢 Easy | [Solution.kt](src/hashmap/p0706_design_hashmap/Solution.kt) | [Notes](src/hashmap/p0706_design_hashmap/README.md) |
 
 ---
 
