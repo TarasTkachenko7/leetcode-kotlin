@@ -15,10 +15,10 @@
 
 ### 📊 Статистика прогресса
 
-- 🟢 **Easy:** `15`
+- 🟢 **Easy:** `16`
 - 🟡 **Medium:** `13`
 - 🔴 **Hard:** `1`
-- 📌 **Всего решено:** `29`
+- 📌 **Всего решено:** `30`
 
 ---
 
@@ -72,6 +72,11 @@
 | 0082 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | `Linked Lists` | 🟡 Medium | [Solution.kt](src/linked_lists/p0082_remove_duplicates_from_sorted_list_ii/Solution.kt) | [Notes](src/linked_lists/p0082_remove_duplicates_from_sorted_list_ii/README.md) |
 | 0092 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | `Linked Lists` | 🟡 Medium | [Solution.kt](src/linked_lists/p0092_reverse_linked_list_ii/Solution.kt) | [Notes](src/linked_lists/p0092_reverse_linked_list_ii/README.md) |
 | 0143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | `Linked Lists` | 🟡 Medium | [Solution.kt](src/linked_lists/p0143_reorder_list/Solution.kt) | [Notes](src/linked_lists/p0143_reorder_list/README.md) |
+
+#### HashMap
+| № | Задача | Категория | Сложность |                                        Код решения                                        |                                    Разбор идеи                                    |
+|:---:|:---|:---|:---:|:-----------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------:|
+| 0706 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) | `Linked Lists` | 🟢 Easy | [Solution.kt](src/linked_lists/p0706_design_hashmap/Solution.kt) | [Notes](src/linked_lists/p0706_design_hashmap/README.md) |
 
 ---
 
