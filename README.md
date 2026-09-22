@@ -16,9 +16,9 @@
 ### 📊 Статистика прогресса
 
 - 🟢 **Easy:** `19`
-- 🟡 **Medium:** `18`
+- 🟡 **Medium:** `19`
 - 🔴 **Hard:** `1`
-- 📌 **Всего решено:** `38`
+- 📌 **Всего решено:** `39`
 
 ---
 
@@ -85,6 +85,7 @@
 | 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | `HashMap` | 🟢 Easy | [Solution.kt](src/hashmap/p0217_contains_duplicate/Solution.kt) | [Notes](src/hashmap/p0217_contains_duplicate/README.md) |
 | 0238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | `HashMap` | 🟡 Medium | [Solution.kt](src/hashmap/p0238_product_of_array_except_self/Solution.kt) | [Notes](src/hashmap/p0238_product_of_array_except_self/README.md) |
 | 0560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | `HashMap` | 🟡 Medium | [Solution.kt](src/hashmap/p0560_subarray_sum_equals_k/Solution.kt) | [Notes](src/hashmap/p0560_subarray_sum_equals_k/README.md) |
+| 0525 | [Contiguous Array](https://leetcode.com/problems/contiguous-array/) | `HashMap` | 🟡 Medium | [Solution.kt](src/hashmap/p0525_contiguous_array/Solution.kt) | [Notes](src/hashmap/p0525_contiguous_array/README.md) |
 
 ---
 
