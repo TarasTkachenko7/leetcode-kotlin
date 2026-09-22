@@ -16,9 +16,9 @@
 ### 📊 Статистика прогресса
 
 - 🟢 **Easy:** `18`
-- 🟡 **Medium:** `15`
+- 🟡 **Medium:** `16`
 - 🔴 **Hard:** `1`
-- 📌 **Всего решено:** `34`
+- 📌 **Всего решено:** `35`
 
 ---
 
@@ -81,6 +81,7 @@
 | 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | `HashMap` | 🟢 Easy | [Solution.kt](src/hashmap/p0242_valid_anagram/Solution.kt) | [Notes](src/hashmap/p0242_valid_anagram/README.md) |
 | 0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | `HashMap` | 🟡 Medium | [Solution.kt](src/hashmap/p0049_group_anagrams/Solution.kt) | [Notes](src/hashmap/p0049_group_anagrams/README.md) |
 | 0347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | `HashMap` | 🟡 Medium | [Solution.kt](src/hashmap/p0347_top_k_frequent_elements/Solution.kt) | [Notes](src/hashmap/p0347_top_k_frequent_elements/README.md) |
+| 0128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | `HashMap` | 🟡 Medium | [Solution.kt](src/hashmap/p0128_longest_consecutive_sequence/Solution.kt) | [Notes](src/hashmap/p0128_longest_consecutive_sequence/README.md) |
 
 ---
 
