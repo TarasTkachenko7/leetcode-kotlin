@@ -16,9 +16,9 @@
 ### 📊 Статистика прогресса
 
 - 🟢 **Easy:** `20`
-- 🟡 **Medium:** `19`
+- 🟡 **Medium:** `20`
 - 🔴 **Hard:** `1`
-- 📌 **Всего решено:** `40`
+- 📌 **Всего решено:** `41`
 
 ---
 
@@ -91,6 +91,7 @@
 | № | Задача | Категория | Сложность |                         Код решения                         |                     Разбор идеи                     |
 |:---:|:---|:---|:---:|:-----------------------------------------------------------:|:---------------------------------------------------:|
 | 0643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | `Sliding Window` | 🟢 Easy | [Solution.kt](src/sliding_window/p0643_maximum_average_subarray_i/Solution.kt) | [Notes](src/sliding_window/p0643_maximum_average_subarray_i/README.md) |
+| 0209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | `Sliding Window` | 🟡 Medium | [Solution.kt](src/sliding_window/p0209_minimum_size_subarray_sum/Solution.kt) | [Notes](src/sliding_window/p0209_minimum_size_subarray_sum/README.md) |
 
 ---
 
