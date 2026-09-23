@@ -15,10 +15,10 @@
 
 ### 📊 Статистика прогресса
 
-- 🟢 **Easy:** `19`
+- 🟢 **Easy:** `20`
 - 🟡 **Medium:** `19`
 - 🔴 **Hard:** `1`
-- 📌 **Всего решено:** `39`
+- 📌 **Всего решено:** `40`
 
 ---
 
@@ -86,6 +86,11 @@
 | 0238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | `HashMap` | 🟡 Medium | [Solution.kt](src/hashmap/p0238_product_of_array_except_self/Solution.kt) | [Notes](src/hashmap/p0238_product_of_array_except_self/README.md) |
 | 0560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | `HashMap` | 🟡 Medium | [Solution.kt](src/hashmap/p0560_subarray_sum_equals_k/Solution.kt) | [Notes](src/hashmap/p0560_subarray_sum_equals_k/README.md) |
 | 0525 | [Contiguous Array](https://leetcode.com/problems/contiguous-array/) | `HashMap` | 🟡 Medium | [Solution.kt](src/hashmap/p0525_contiguous_array/Solution.kt) | [Notes](src/hashmap/p0525_contiguous_array/README.md) |
+
+#### Sliding Window
+| № | Задача | Категория | Сложность |                         Код решения                         |                     Разбор идеи                     |
+|:---:|:---|:---|:---:|:-----------------------------------------------------------:|:---------------------------------------------------:|
+| 0643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | `Sliding Window` | 🟢 Easy | [Solution.kt](src/sliding_window/p0643_maximum_average_subarray_i/Solution.kt) | [Notes](src/sliding_window/p0643_maximum_average_subarray_i/README.md) |
 
 ---
 
