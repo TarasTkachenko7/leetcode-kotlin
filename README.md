@@ -16,9 +16,9 @@
 ### 📊 Статистика прогресса
 
 - 🟢 **Easy:** `20`
-- 🟡 **Medium:** `20`
+- 🟡 **Medium:** `21`
 - 🔴 **Hard:** `1`
-- 📌 **Всего решено:** `41`
+- 📌 **Всего решено:** `42`
 
 ---
 
@@ -92,6 +92,7 @@
 |:---:|:---|:---|:---:|:-----------------------------------------------------------:|:---------------------------------------------------:|
 | 0643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | `Sliding Window` | 🟢 Easy | [Solution.kt](src/sliding_window/p0643_maximum_average_subarray_i/Solution.kt) | [Notes](src/sliding_window/p0643_maximum_average_subarray_i/README.md) |
 | 0209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | `Sliding Window` | 🟡 Medium | [Solution.kt](src/sliding_window/p0209_minimum_size_subarray_sum/Solution.kt) | [Notes](src/sliding_window/p0209_minimum_size_subarray_sum/README.md) |
+| 2958 | [Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/) | `Sliding Window` | 🟡 Medium | [Solution.kt](src/sliding_window/p2958_length_of_longest_subarray_with_at_most_k_frequency/Solution.kt) | [Notes](src/sliding_window/p2958_length_of_longest_subarray_with_at_most_k_frequency/README.md) |
 
 ---
 
