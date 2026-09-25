@@ -15,10 +15,10 @@
 
 ### 📊 Статистика прогресса
 
-- 🟢 **Easy:** `20`
+- 🟢 **Easy:** `21`
 - 🟡 **Medium:** `24`
 - 🔴 **Hard:** `1`
-- 📌 **Всего решено:** `45`
+- 📌 **Всего решено:** `46`
 
 ---
 
@@ -96,6 +96,7 @@
 | 2461 | [Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/) | `Sliding Window` | 🟡 Medium | [Solution.kt](src/sliding_window/p2461_maximum_sum_of_distinct_subarrays_with_length_k/Solution.kt) | [Notes](src/sliding_window/p2461_maximum_sum_of_distinct_subarrays_with_length_k/README.md) |
 | 0567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | `Sliding Window` | 🟡 Medium | [Solution.kt](src/sliding_window/p0567_permutation_in_string/Solution.kt) | [Notes](src/sliding_window/p0567_permutation_in_string/README.md) |
 | 0713 | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | `Sliding Window` | 🟡 Medium | [Solution.kt](src/sliding_window/p0713_subarray_product_less_than_k/Solution.kt) | [Notes](src/sliding_window/p0713_subarray_product_less_than_k/README.md) |
+| 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | `Two Pointers` | 🟢 Easy | [Solution.kt](src/two_pointers/p0121_best_time_to_buy_and_sell_stock/Solution.kt) | [Notes](src/two_pointers/p0121_best_time_to_buy_and_sell_stock/README.md) |
 
 ---
 
