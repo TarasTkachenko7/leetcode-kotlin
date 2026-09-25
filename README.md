@@ -16,9 +16,9 @@
 ### 📊 Статистика прогресса
 
 - 🟢 **Easy:** `21`
-- 🟡 **Medium:** `24`
+- 🟡 **Medium:** `25`
 - 🔴 **Hard:** `1`
-- 📌 **Всего решено:** `46`
+- 📌 **Всего решено:** `47`
 
 ---
 
@@ -97,6 +97,7 @@
 | 0567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | `Sliding Window` | 🟡 Medium | [Solution.kt](src/sliding_window/p0567_permutation_in_string/Solution.kt) | [Notes](src/sliding_window/p0567_permutation_in_string/README.md) |
 | 0713 | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | `Sliding Window` | 🟡 Medium | [Solution.kt](src/sliding_window/p0713_subarray_product_less_than_k/Solution.kt) | [Notes](src/sliding_window/p0713_subarray_product_less_than_k/README.md) |
 | 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | `Two Pointers` | 🟢 Easy | [Solution.kt](src/two_pointers/p0121_best_time_to_buy_and_sell_stock/Solution.kt) | [Notes](src/two_pointers/p0121_best_time_to_buy_and_sell_stock/README.md) |
+| 0003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | `Sliding Window` | 🟡 Medium | [Solution.kt](src/sliding_window/p0003_longest_substring_without_repeating_characters/Solution.kt) | [Notes](src/sliding_window/p0003_longest_substring_without_repeating_characters/README.md) |
 
 ---
 
