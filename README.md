@@ -16,9 +16,9 @@
 ### 📊 Статистика прогресса
 
 - 🟢 **Easy:** `23`
-- 🟡 **Medium:** `21`
+- 🟡 **Medium:** `22`
 - 🔴 **Hard:** `1`
-- 📌 **Всего решено:** `50`
+- 📌 **Всего решено:** `51`
 
 ---
 
@@ -109,6 +109,7 @@
 |:---:|:---|:---|:---:|:-----------------------------------------------------------:|:---------------------------------------------------:|
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | `Stack` | 🟢 Easy | [Solution.kt](src/stack/p0020_valid_parentheses/Solution.kt) | [Notes](src/stack/p0020_valid_parentheses/README.md) |
 | 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | `Stack` | 🟢 Easy | [Solution.kt](src/stack/p1047_remove_all_adjacent_duplicates_in_string/Solution.kt) | [Notes](src/stack/p1047_remove_all_adjacent_duplicates_in_string/README.md) |
+| 2390 | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | `Stack` | 🟡 Medium | [Solution.kt](src/stack/p2390_removing_stars_from_a_string/Solution.kt) | [Notes](src/stack/p2390_removing_stars_from_a_string/README.md) |
 
 ---
 
