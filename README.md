@@ -15,10 +15,10 @@
 
 ### 📊 Статистика прогресса
 
-- 🟢 **Easy:** `22`
+- 🟢 **Easy:** `23`
 - 🟡 **Medium:** `21`
 - 🔴 **Hard:** `1`
-- 📌 **Всего решено:** `49`
+- 📌 **Всего решено:** `50`
 
 ---
 
@@ -108,6 +108,7 @@
 | № | Задача | Категория | Сложность |                         Код решения                         |                     Разбор идеи                     |
 |:---:|:---|:---|:---:|:-----------------------------------------------------------:|:---------------------------------------------------:|
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | `Stack` | 🟢 Easy | [Solution.kt](src/stack/p0020_valid_parentheses/Solution.kt) | [Notes](src/stack/p0020_valid_parentheses/README.md) |
+| 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | `Stack` | 🟢 Easy | [Solution.kt](src/stack/p1047_remove_all_adjacent_duplicates_in_string/Solution.kt) | [Notes](src/stack/p1047_remove_all_adjacent_duplicates_in_string/README.md) |
 
 ---
 
