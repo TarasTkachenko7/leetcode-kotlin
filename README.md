@@ -15,10 +15,10 @@
 
 ### 📊 Статистика прогресса
 
-- 🟢 **Easy:** `21`
+- 🟢 **Easy:** `22`
 - 🟡 **Medium:** `21`
 - 🔴 **Hard:** `1`
-- 📌 **Всего решено:** `48`
+- 📌 **Всего решено:** `49`
 
 ---
 
@@ -103,6 +103,11 @@
 | № | Задача | Категория | Сложность |                         Код решения                         |                     Разбор идеи                     |
 |:---:|:---|:---|:---:|:-----------------------------------------------------------:|:---------------------------------------------------:|
 | 0146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | `Design` | 🟡 Medium | [Solution.kt](src/design/p0146_lru_cache/Solution.kt) | [Notes](src/design/p0146_lru_cache/README.md) |
+
+#### Stack
+| № | Задача | Категория | Сложность |                         Код решения                         |                     Разбор идеи                     |
+|:---:|:---|:---|:---:|:-----------------------------------------------------------:|:---------------------------------------------------:|
+| 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | `Stack` | 🟢 Easy | [Solution.kt](src/stack/p0020_valid_parentheses/Solution.kt) | [Notes](src/stack/p0020_valid_parentheses/README.md) |
 
 ---
 
