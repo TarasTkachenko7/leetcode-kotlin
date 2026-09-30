@@ -15,10 +15,10 @@
 
 ### 📊 Статистика прогресса
 
-- 🟢 **Easy:** `24`
+- 🟢 **Easy:** `25`
 - 🟡 **Medium:** `24`
 - 🔴 **Hard:** `1`
-- 📌 **Всего решено:** `54`
+- 📌 **Всего решено:** `55`
 
 ---
 
@@ -113,6 +113,7 @@
 | 0071 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | `Stack` | 🟡 Medium |              [Solution.kt](src/stack/p0071_simplify_path/Solution.kt)               |              [Notes](src/stack/p0071_simplify_path/README.md)               |
 | 0933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | `Queue` | 🟢 Easy |          [Solution.kt](src/stack/p0933_number_of_recent_calls/Solution.kt)          |          [Notes](src/stack/p0933_number_of_recent_calls/README.md)          |
 | 0155 | [Min Stack](https://leetcode.com/problems/min-stack/) | `Stack` | 🟡 Medium | [Solution.kt](src/stack/p0155_min_stack/Solution.kt) | [Notes](src/stack/p0155_min_stack/README.md) |
+| 0232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | `Stack` | 🟢 Easy | [Solution.kt](src/stack/p0232_implement_queue_using_stacks/Solution.kt) | [Notes](src/stack/p0232_implement_queue_using_stacks/README.md) |
 
 ---
 
