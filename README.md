@@ -105,13 +105,13 @@
 | 0146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | `Design` | 🟡 Medium | [Solution.kt](src/design/p0146_lru_cache/Solution.kt) | [Notes](src/design/p0146_lru_cache/README.md) |
 
 #### Stack / Queue
-| № | Задача | Категория | Сложность |                         Код решения                         |                     Разбор идеи                     |
-|:---:|:---|:---|:---:|:-----------------------------------------------------------:|:---------------------------------------------------:|
-| 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | `Stack` | 🟢 Easy | [Solution.kt](src/stack/p0020_valid_parentheses/Solution.kt) | [Notes](src/stack/p0020_valid_parentheses/README.md) |
+| № | Задача | Категория | Сложность |                                     Код решения                                     |                                 Разбор идеи                                 |
+|:---:|:---|:---|:---:|:-----------------------------------------------------------------------------------:|:---------------------------------------------------------------------------:|
+| 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | `Stack` | 🟢 Easy |            [Solution.kt](src/stack/p0020_valid_parentheses/Solution.kt)             |            [Notes](src/stack/p0020_valid_parentheses/README.md)             |
 | 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | `Stack` | 🟢 Easy | [Solution.kt](src/stack/p1047_remove_all_adjacent_duplicates_in_string/Solution.kt) | [Notes](src/stack/p1047_remove_all_adjacent_duplicates_in_string/README.md) |
-| 2390 | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | `Stack` | 🟡 Medium | [Solution.kt](src/stack/p2390_removing_stars_from_a_string/Solution.kt) | [Notes](src/stack/p2390_removing_stars_from_a_string/README.md) |
-| 0071 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | `Stack` | 🟡 Medium | [Solution.kt](src/stack/p0071_simplify_path/Solution.kt) | [Notes](src/stack/p0071_simplify_path/README.md) |
-| 0933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | `Queue` | 🟢 Easy | [Solution.kt](src/queue/p0933_number_of_recent_calls/Solution.kt) | [Notes](src/queue/p0933_number_of_recent_calls/README.md) |
+| 2390 | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | `Stack` | 🟡 Medium |       [Solution.kt](src/stack/p2390_removing_stars_from_a_string/Solution.kt)       |       [Notes](src/stack/p2390_removing_stars_from_a_string/README.md)       |
+| 0071 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | `Stack` | 🟡 Medium |              [Solution.kt](src/stack/p0071_simplify_path/Solution.kt)               |              [Notes](src/stack/p0071_simplify_path/README.md)               |
+| 0933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | `Queue` | 🟢 Easy |          [Solution.kt](src/stack/p0933_number_of_recent_calls/Solution.kt)          |          [Notes](src/stack/p0933_number_of_recent_calls/README.md)          |
 
 ---
 
