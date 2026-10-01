@@ -16,9 +16,9 @@
 ### 📊 Статистика прогресса
 
 - 🟢 **Easy:** `25`
-- 🟡 **Medium:** `24`
+- 🟡 **Medium:** `30`
 - 🔴 **Hard:** `1`
-- 📌 **Всего решено:** `55`
+- 📌 **Всего решено:** `56`
 
 ---
 
@@ -114,6 +114,7 @@
 | 0933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | `Queue` | 🟢 Easy |          [Solution.kt](src/stack/p0933_number_of_recent_calls/Solution.kt)          |          [Notes](src/stack/p0933_number_of_recent_calls/README.md)          |
 | 0155 | [Min Stack](https://leetcode.com/problems/min-stack/) | `Stack` | 🟡 Medium | [Solution.kt](src/stack/p0155_min_stack/Solution.kt) | [Notes](src/stack/p0155_min_stack/README.md) |
 | 0232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | `Stack` | 🟢 Easy | [Solution.kt](src/stack/p0232_implement_queue_using_stacks/Solution.kt) | [Notes](src/stack/p0232_implement_queue_using_stacks/README.md) |
+| 0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | `Monotonic Stack` | 🟡 Medium | [Solution.kt](src/stack/p0739_daily_temperatures/Solution.kt) | [Notes](src/stack/p0739_daily_temperatures/README.md) |
 
 ---
 
