@@ -16,9 +16,9 @@
 ### 📊 Статистика прогресса
 
 - 🟢 **Easy:** `26`
-- 🟡 **Medium:** `30`
+- 🟡 **Medium:** `31`
 - 🔴 **Hard:** `1`
-- 📌 **Всего решено:** `57`
+- 📌 **Всего решено:** `58`
 
 ---
 
@@ -116,6 +116,7 @@
 | 0232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | `Stack` | 🟢 Easy | [Solution.kt](src/stack/p0232_implement_queue_using_stacks/Solution.kt) | [Notes](src/stack/p0232_implement_queue_using_stacks/README.md) |
 | 0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | `Monotonic Stack` | 🟡 Medium | [Solution.kt](src/stack/p0739_daily_temperatures/Solution.kt) | [Notes](src/stack/p0739_daily_temperatures/README.md) |
 | 0496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | `Monotonic Stack` | 🟢 Easy | [Solution.kt](src/stack/p0496_next_greater_element_i/Solution.kt) | [Notes](src/stack/p0496_next_greater_element_i/README.md) |
+| 0901 | [Online Stock Span](https://leetcode.com/problems/online-stock-span/) | `Monotonic Stack` | 🟡 Medium | [Solution.kt](src/stack/p0901_online_stock_span/Solution.kt) | [Notes](src/stack/p0901_online_stock_span/README.md) |
 
 ---
 
