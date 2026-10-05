@@ -15,10 +15,10 @@
 
 ### 📊 Статистика прогресса
 
-- 🟢 **Easy:** `27`
+- 🟢 **Easy:** `28`
 - 🟡 **Medium:** `31`
 - 🔴 **Hard:** `1`
-- 📌 **Всего решено:** `59`
+- 📌 **Всего решено:** `60`
 
 ---
 
@@ -122,7 +122,7 @@
 | № | Задача | Категория | Сложность |                         Код решения                         |                     Разбор идеи                     |
 |:---:|:---|:---|:---:|:-----------------------------------------------------------:|:---------------------------------------------------:|
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search/) | `Binary Search` | 🟢 Easy | [Solution.kt](src/binary_search/p0704_binary_search/Solution.kt) | [Notes](src/binary_search/p0704_binary_search/README.md) |
-
+| 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | `Binary Search` | 🟢 Easy | [Solution.kt](src/binary_search/p0035_search_insert_position/Solution.kt) | [Notes](src/binary_search/p0035_search_insert_position/README.md) |
 
 ---
 
