@@ -15,10 +15,10 @@
 
 ### 📊 Статистика прогресса
 
-- 🟢 **Easy:** `26`
+- 🟢 **Easy:** `27`
 - 🟡 **Medium:** `31`
 - 🔴 **Hard:** `1`
-- 📌 **Всего решено:** `58`
+- 📌 **Всего решено:** `59`
 
 ---
 
@@ -117,6 +117,12 @@
 | 0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | `Monotonic Stack` | 🟡 Medium | [Solution.kt](src/stack/p0739_daily_temperatures/Solution.kt) | [Notes](src/stack/p0739_daily_temperatures/README.md) |
 | 0496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | `Monotonic Stack` | 🟢 Easy | [Solution.kt](src/stack/p0496_next_greater_element_i/Solution.kt) | [Notes](src/stack/p0496_next_greater_element_i/README.md) |
 | 0901 | [Online Stock Span](https://leetcode.com/problems/online-stock-span/) | `Monotonic Stack` | 🟡 Medium | [Solution.kt](src/stack/p0901_online_stock_span/Solution.kt) | [Notes](src/stack/p0901_online_stock_span/README.md) |
+
+#### Binary Search
+| № | Задача | Категория | Сложность |                         Код решения                         |                     Разбор идеи                     |
+|:---:|:---|:---|:---:|:-----------------------------------------------------------:|:---------------------------------------------------:|
+| 0704 | [Binary Search](https://leetcode.com/problems/binary-search/) | `Binary Search` | 🟢 Easy | [Solution.kt](src/binary_search/p0704_binary_search/Solution.kt) | [Notes](src/binary_search/p0704_binary_search/README.md) |
+
 
 ---
 
