@@ -16,9 +16,9 @@
 ### 📊 Статистика прогресса
 
 - 🟢 **Easy:** `28`
-- 🟡 **Medium:** `31`
+- 🟡 **Medium:** `32`
 - 🔴 **Hard:** `1`
-- 📌 **Всего решено:** `60`
+- 📌 **Всего решено:** `61`
 
 ---
 
@@ -123,6 +123,7 @@
 |:---:|:---|:---|:---:|:-----------------------------------------------------------:|:---------------------------------------------------:|
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search/) | `Binary Search` | 🟢 Easy | [Solution.kt](src/binary_search/p0704_binary_search/Solution.kt) | [Notes](src/binary_search/p0704_binary_search/README.md) |
 | 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | `Binary Search` | 🟢 Easy | [Solution.kt](src/binary_search/p0035_search_insert_position/Solution.kt) | [Notes](src/binary_search/p0035_search_insert_position/README.md) |
+| 0034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | `Binary Search` | 🟡 Medium | [Solution.kt](src/binary_search/p0034_find_first_and_last_position_of_element_in_sorted_array/Solution.kt) | [Notes](src/binary_search/p0034_find_first_and_last_position_of_element_in_sorted_array/README.md) |
 
 ---
 
