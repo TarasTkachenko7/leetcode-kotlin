@@ -16,9 +16,9 @@
 ### 📊 Статистика прогресса
 
 - 🟢 **Easy:** `28`
-- 🟡 **Medium:** `36`
+- 🟡 **Medium:** `37`
 - 🔴 **Hard:** `1`
-- 📌 **Всего решено:** `65`
+- 📌 **Всего решено:** `66`
 
 ---
 
@@ -128,6 +128,7 @@
 | 0033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | `Binary Search` | 🟡 Medium | [Solution.kt](src/binary_search/p0033_search_in_rotated_sorted_array/Solution.kt) | [Notes](src/binary_search/p0033_search_in_rotated_sorted_array/README.md) |
 | 0162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | `Binary Search` | 🟡 Medium | [Solution.kt](src/binary_search/p0162_find_peak_element/Solution.kt) | [Notes](src/binary_search/p0162_find_peak_element/README.md) |
 | 0074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | `Binary Search` | 🟡 Medium | [Solution.kt](src/binary_search/p0074_search_a_2d_matrix/Solution.kt) | [Notes](src/binary_search/p0074_search_a_2d_matrix/README.md) |
+| 0240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | `Binary Search` | 🟡 Medium | [Solution.kt](src/binary_search/p0240_search_a_2d_matrix_ii/Solution.kt) | [Notes](src/binary_search/p0240_search_a_2d_matrix_ii/README.md) |
 
 ---
 
