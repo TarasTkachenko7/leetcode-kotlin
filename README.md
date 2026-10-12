@@ -16,9 +16,9 @@
 ### 📊 Статистика прогресса
 
 - 🟢 **Easy:** `28`
-- 🟡 **Medium:** `37`
+- 🟡 **Medium:** `38`
 - 🔴 **Hard:** `1`
-- 📌 **Всего решено:** `66`
+- 📌 **Всего решено:** `67`
 
 ---
 
@@ -129,6 +129,7 @@
 | 0162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | `Binary Search` | 🟡 Medium | [Solution.kt](src/binary_search/p0162_find_peak_element/Solution.kt) | [Notes](src/binary_search/p0162_find_peak_element/README.md) |
 | 0074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | `Binary Search` | 🟡 Medium | [Solution.kt](src/binary_search/p0074_search_a_2d_matrix/Solution.kt) | [Notes](src/binary_search/p0074_search_a_2d_matrix/README.md) |
 | 0240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | `Binary Search` | 🟡 Medium | [Solution.kt](src/binary_search/p0240_search_a_2d_matrix_ii/Solution.kt) | [Notes](src/binary_search/p0240_search_a_2d_matrix_ii/README.md) |
+| 0875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | `Binary Search` | 🟡 Medium | [Solution.kt](src/binary_search/p0875_koko_eating_bananas/Solution.kt) | [Notes](src/binary_search/p0875_koko_eating_bananas/README.md) |
 
 ---
 
