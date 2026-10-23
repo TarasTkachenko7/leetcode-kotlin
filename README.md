@@ -36,6 +36,11 @@
 
 ### 📝 Список решённых задач
 
+#### Arrays & Hashing
+| № | Задача | Категория | Сложность | Код решения | Разбор идеи |
+|:---:|:---|:---|:---:|:---:|:---:|
+| 0066 | [Plus One](https://leetcode.com/problems/plus-one/) | `Arrays & Hashing` | 🟢 Easy | [Solution.kt](src/arrays/p0066_plus_one/Solution.kt) | [Notes](src/arrays/p0066_plus_one/README.md) |
+
 #### Two Pointers
 | № | Задача | Категория | Сложность | Код решения | Разбор идеи |
 |:---:|:---|:---|:---:|:---:|:---:|
@@ -43,7 +48,6 @@
 | 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | `Two Pointers` | 🟢 Easy | [Solution.kt](src/two_pointers/p0125_valid_palindrome/Solution.kt) | [Notes](src/two_pointers/p0125_valid_palindrome/README.md) |
 | 0167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | `Two Pointers` | 🟡 Medium | [Solution.kt](src/two_pointers/p0167_two_sum_ii_input_array_is_sorted/Solution.kt) | [Notes](src/two_pointers/p0167_two_sum_ii_input_array_is_sorted/README.md) |
 | 0015 | [3Sum](https://leetcode.com/problems/3sum/) | `Two Pointers` | 🟡 Medium | [Solution.kt](src/two_pointers/p0015_3sum/Solution.kt) | [Notes](src/two_pointers/p0015_3sum/README.md) |
-| 0977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | `Two Pointers` | 🟢 Easy | [Solution.kt](src/two_pointers/p0977_squares_of_a_sorted_array/Solution.kt) | [Notes](src/two_pointers/p0977_squares_of_a_sorted_array/README.md) |
 | 0011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | `Two Pointers` | 🟡 Medium | [Solution.kt](src/two_pointers/p0011_container_with_most_water/Solution.kt) | [Notes](src/two_pointers/p0011_container_with_most_water/README.md) |
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | `Two Pointers` | 🟢 Easy | [Solution.kt](src/two_pointers/p0026_remove_duplicates_from_sorted_array/Solution.kt) | [Notes](src/two_pointers/p0026_remove_duplicates_from_sorted_array/README.md) |
 | 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | `Two Pointers` | 🟢 Easy | [Solution.kt](src/two_pointers/p0283_move_zeroes/Solution.kt) | [Notes](src/two_pointers/p0283_move_zeroes/README.md) |
@@ -96,7 +100,7 @@
 | 2461 | [Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/) | `Sliding Window` | 🟡 Medium | [Solution.kt](src/sliding_window/p2461_maximum_sum_of_distinct_subarrays_with_length_k/Solution.kt) | [Notes](src/sliding_window/p2461_maximum_sum_of_distinct_subarrays_with_length_k/README.md) |
 | 0567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | `Sliding Window` | 🟡 Medium | [Solution.kt](src/sliding_window/p0567_permutation_in_string/Solution.kt) | [Notes](src/sliding_window/p0567_permutation_in_string/README.md) |
 | 0713 | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | `Sliding Window` | 🟡 Medium | [Solution.kt](src/sliding_window/p0713_subarray_product_less_than_k/Solution.kt) | [Notes](src/sliding_window/p0713_subarray_product_less_than_k/README.md) |
-| 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | `Two Pointers` | 🟢 Easy | [Solution.kt](src/two_pointers/p0121_best_time_to_buy_and_sell_stock/Solution.kt) | [Notes](src/two_pointers/p0121_best_time_to_buy_and_sell_stock/README.md) |
+| 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | `Two Pointers` | 🟢 Easy | [Solution.kt](src/sliding_window/p0121_best_time_to_buy_and_sell_stock/Solution.kt) | [Notes](src/sliding_window/p0121_best_time_to_buy_and_sell_stock/README.md) |
 | 0003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | `Sliding Window` | 🟡 Medium | [Solution.kt](src/sliding_window/p0003_longest_substring_without_repeating_characters/Solution.kt) | [Notes](src/sliding_window/p0003_longest_substring_without_repeating_characters/README.md) |
 
 #### Design
