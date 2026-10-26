@@ -15,10 +15,10 @@
 
 ### 📊 Статистика прогресса
 
-- 🟢 **Easy:** `28`
+- 🟢 **Easy:** `29`
 - 🟡 **Medium:** `39`
 - 🔴 **Hard:** `1`
-- 📌 **Всего решено:** `68`
+- 📌 **Всего решено:** `69`
 
 ---
 
@@ -83,6 +83,7 @@
 | 0706 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) | `HashMap` | 🟢 Easy | [Solution.kt](src/hashmap/p0706_design_hashmap/Solution.kt) | [Notes](src/hashmap/p0706_design_hashmap/README.md) |
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | `HashMap` | 🟢 Easy | [Solution.kt](src/hashmap/p0001_two_sum/Solution.kt) | [Notes](src/hashmap/p0001_two_sum/README.md) |
 | 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | `HashMap` | 🟢 Easy | [Solution.kt](src/hashmap/p0242_valid_anagram/Solution.kt) | [Notes](src/hashmap/p0242_valid_anagram/README.md) |
+| 0205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | `HashMap` | 🟢 Easy | [Solution.kt](src/hashmap/p0205_isomorphic_strings/Solution.kt) | [Notes](src/hashmap/p0205_isomorphic_strings/README.md) |
 | 0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | `HashMap` | 🟡 Medium | [Solution.kt](src/hashmap/p0049_group_anagrams/Solution.kt) | [Notes](src/hashmap/p0049_group_anagrams/README.md) |
 | 0347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | `HashMap` | 🟡 Medium | [Solution.kt](src/hashmap/p0347_top_k_frequent_elements/Solution.kt) | [Notes](src/hashmap/p0347_top_k_frequent_elements/README.md) |
 | 0128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | `HashMap` | 🟡 Medium | [Solution.kt](src/hashmap/p0128_longest_consecutive_sequence/Solution.kt) | [Notes](src/hashmap/p0128_longest_consecutive_sequence/README.md) |
