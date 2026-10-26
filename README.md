@@ -15,10 +15,10 @@
 
 ### 📊 Статистика прогресса
 
-- 🟢 **Easy:** `30`
+- 🟢 **Easy:** `31`
 - 🟡 **Medium:** `40`
 - 🔴 **Hard:** `1`
-- 📌 **Всего решено:** `71`
+- 📌 **Всего решено:** `72`
 
 ---
 
@@ -89,6 +89,7 @@
 | 0347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | `HashMap` | 🟡 Medium | [Solution.kt](src/hashmap/p0347_top_k_frequent_elements/Solution.kt) | [Notes](src/hashmap/p0347_top_k_frequent_elements/README.md) |
 | 0128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | `HashMap` | 🟡 Medium | [Solution.kt](src/hashmap/p0128_longest_consecutive_sequence/Solution.kt) | [Notes](src/hashmap/p0128_longest_consecutive_sequence/README.md) |
 | 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | `HashMap` | 🟢 Easy | [Solution.kt](src/hashmap/p0217_contains_duplicate/Solution.kt) | [Notes](src/hashmap/p0217_contains_duplicate/README.md) |
+| 0349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | `HashMap` | 🟢 Easy | [Solution.kt](src/hashmap/p0349_intersection_of_two_arrays/Solution.kt) | [Notes](src/hashmap/p0349_intersection_of_two_arrays/README.md) |
 | 0036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | `HashMap` | 🟡 Medium | [Solution.kt](src/hashmap/p0036_valid_sudoku/Solution.kt) | [Notes](src/hashmap/p0036_valid_sudoku/README.md) |
 | 0238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | `HashMap` | 🟡 Medium | [Solution.kt](src/hashmap/p0238_product_of_array_except_self/Solution.kt) | [Notes](src/hashmap/p0238_product_of_array_except_self/README.md) |
 | 0560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | `HashMap` | 🟡 Medium | [Solution.kt](src/hashmap/p0560_subarray_sum_equals_k/Solution.kt) | [Notes](src/hashmap/p0560_subarray_sum_equals_k/README.md) |
