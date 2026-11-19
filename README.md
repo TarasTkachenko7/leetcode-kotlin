@@ -16,9 +16,9 @@
 ### 📊 Статистика прогресса
 
 - 🟢 **Easy:** `33`
-- 🟡 **Medium:** `40`
+- 🟡 **Medium:** `41`
 - 🔴 **Hard:** `1`
-- 📌 **Всего решено:** `74`
+- 📌 **Всего решено:** `75`
 
 ---
 
@@ -42,6 +42,7 @@
 | 0066 | [Plus One](https://leetcode.com/problems/plus-one/) | `Arrays & Hashing` | 🟢 Easy | [Solution.kt](src/arrays/p0066_plus_one/Solution.kt) | [Notes](src/arrays/p0066_plus_one/README.md) |
 | 0303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | `Arrays & Hashing` | 🟢 Easy | [Solution.kt](src/arrays/p0303_range_sum_query_immutable/Solution.kt) | [Notes](src/arrays/p0303_range_sum_query_immutable/README.md) |
 | 0724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | `Arrays & Hashing` | 🟢 Easy | [Solution.kt](src/arrays/p0724_find_pivot_index/Solution.kt) | [Notes](src/arrays/p0724_find_pivot_index/README.md) |
+| 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | `Arrays & Hashing` | 🟡 Medium | [Solution.kt](src/arrays/p0053_maximum_subarray/Solution.kt) | [Notes](src/arrays/p0053_maximum_subarray/README.md) |
 
 #### Two Pointers
 | № | Задача | Категория | Сложность | Код решения | Разбор идеи |
