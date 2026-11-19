@@ -15,10 +15,10 @@
 
 ### 📊 Статистика прогресса
 
-- 🟢 **Easy:** `31`
+- 🟢 **Easy:** `32`
 - 🟡 **Medium:** `40`
 - 🔴 **Hard:** `1`
-- 📌 **Всего решено:** `72`
+- 📌 **Всего решено:** `73`
 
 ---
 
@@ -40,6 +40,7 @@
 | № | Задача | Категория | Сложность | Код решения | Разбор идеи |
 |:---:|:---|:---|:---:|:---:|:---:|
 | 0066 | [Plus One](https://leetcode.com/problems/plus-one/) | `Arrays & Hashing` | 🟢 Easy | [Solution.kt](src/arrays/p0066_plus_one/Solution.kt) | [Notes](src/arrays/p0066_plus_one/README.md) |
+| 0303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | `Arrays & Hashing` | 🟢 Easy | [Solution.kt](src/arrays/p0303_range_sum_query_immutable/Solution.kt) | [Notes](src/arrays/p0303_range_sum_query_immutable/README.md) |
 
 #### Two Pointers
 | № | Задача | Категория | Сложность | Код решения | Разбор идеи |
